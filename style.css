@@ -13,10 +13,7 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
-nav,
-figcaption {
-  text-align: center;
-}
+
 
 nav a {
   padding: 2 10px;
