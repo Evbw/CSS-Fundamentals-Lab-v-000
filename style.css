@@ -13,3 +13,10 @@ center {
   margin-left: auto;
   margin-right: auto;
 }
+
+nav a {
+  padding: 10px;
+  background-color: blue;
+  margin-left: auto;
+  margin-right: auto;
+}
