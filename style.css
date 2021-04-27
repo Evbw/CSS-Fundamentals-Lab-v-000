@@ -30,8 +30,8 @@ figcaption {
   }
 
 #details div{
-  text-align: center;
   float: left;
   background-color: chartreuse;
   width 25%;
+  text-align: center;
 }
