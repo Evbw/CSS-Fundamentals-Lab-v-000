@@ -29,4 +29,6 @@ figcaption {
   display: block;
   text-align: center;
   float: left;
+  color: chartreuse;
+  width 25%;
 }
