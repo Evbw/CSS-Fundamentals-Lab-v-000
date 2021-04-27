@@ -14,7 +14,6 @@ img {
   margin-right: auto;
 }
 
-
 nav a {
   padding: 2 10px;
   background-color: blue;
@@ -27,7 +26,7 @@ figcaption {
 }
 
 #featured-property {
-  width: 800px;
+  width: 900px;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
