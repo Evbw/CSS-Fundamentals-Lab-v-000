@@ -30,7 +30,6 @@ figcaption {
   }
 
 #details div{
-  display: block;
   text-align: center;
   float: left;
   background-color: chartreuse;
